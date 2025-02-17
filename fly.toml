@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for rails-blogg on 2025-02-17T20:19:32Z
+# fly.toml app configuration file generated for rails-blog-hp on 2025-02-17T20:33:06Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'rails-blogg'
-primary_region = 'ewr'
+app = 'rails-blog-hp'
+primary_region = 'yul'
 console_command = '/rails/bin/rails console'
 
 [build]

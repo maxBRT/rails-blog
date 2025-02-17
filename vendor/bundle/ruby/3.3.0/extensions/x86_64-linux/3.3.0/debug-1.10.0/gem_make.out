@@ -1,0 +1,19 @@
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250217-120229-t7ancx sitelibdir\=./.gem.20250217-120229-t7ancx clean
+
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250217-120229-t7ancx sitelibdir\=./.gem.20250217-120229-t7ancx
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250217-120229-t7ancx sitelibdir\=./.gem.20250217-120229-t7ancx install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20250217-120229-t7ancx/debug
+
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250217-120229-t7ancx sitelibdir\=./.gem.20250217-120229-t7ancx clean

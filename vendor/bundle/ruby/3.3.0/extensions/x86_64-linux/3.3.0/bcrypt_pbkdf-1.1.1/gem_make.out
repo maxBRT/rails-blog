@@ -1,0 +1,22 @@
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/bcrypt_pbkdf-1.1.1/ext/mri
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/bcrypt_pbkdf-1.1.1/ext/mri
+make DESTDIR\= sitearchdir\=./.gem.20250217-120229-qspz6p sitelibdir\=./.gem.20250217-120229-qspz6p clean
+
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/bcrypt_pbkdf-1.1.1/ext/mri
+make DESTDIR\= sitearchdir\=./.gem.20250217-120229-qspz6p sitelibdir\=./.gem.20250217-120229-qspz6p
+compiling bcrypt_pbkdf.c
+compiling bcrypt_pbkdf_ext.c
+compiling blowfish.c
+compiling explicit_bzero.c
+compiling hash_sha512.c
+linking shared-object bcrypt_pbkdf_ext.so
+
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/bcrypt_pbkdf-1.1.1/ext/mri
+make DESTDIR\= sitearchdir\=./.gem.20250217-120229-qspz6p sitelibdir\=./.gem.20250217-120229-qspz6p install
+/usr/bin/install -c -m 0755 bcrypt_pbkdf_ext.so ./.gem.20250217-120229-qspz6p
+
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/bcrypt_pbkdf-1.1.1/ext/mri
+make DESTDIR\= sitearchdir\=./.gem.20250217-120229-qspz6p sitelibdir\=./.gem.20250217-120229-qspz6p clean

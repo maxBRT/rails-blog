@@ -1,0 +1,18 @@
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.3/ext/stringio
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.3/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250217-120229-1d5m6i sitelibdir\=./.gem.20250217-120229-1d5m6i clean
+
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.3/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250217-120229-1d5m6i sitelibdir\=./.gem.20250217-120229-1d5m6i
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.3/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250217-120229-1d5m6i sitelibdir\=./.gem.20250217-120229-1d5m6i install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20250217-120229-1d5m6i
+
+current directory: /home/drip/odin_porject/blog/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.3/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250217-120229-1d5m6i sitelibdir\=./.gem.20250217-120229-1d5m6i clean

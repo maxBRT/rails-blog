@@ -32,6 +32,7 @@ FROM base AS build
 RUN apt-get update -qq && \
     apt-get install --no-install-recommends -y build-essential git pkg-config libyaml-dev && \
     rm -rf /var/lib/apt/lists /var/cache/apt/archives
+    gem install bundler -v '~> 2.6'
 
 # Install application gems
 COPY Gemfile Gemfile.lock ./
